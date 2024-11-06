@@ -2,6 +2,7 @@
   "name": "vanilla-app-template",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://Serhii151.github.io/test/",
   "type": "module",
   "scripts": {
     "dev": "vite",
